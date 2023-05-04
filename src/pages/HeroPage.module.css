@@ -1,0 +1,138 @@
+.intro {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  background-color: #eaeaea;
+}
+
+.main_text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 70px;
+}
+
+.main_heading {
+  font-size: 70px;
+  font-weight: 800;
+  font-family: 'Playfair Display', serif;
+  color:  #333;
+  width: 445px;
+  margin-bottom: 0;
+  margin-left: 40px;
+}
+
+.main_heading2 {
+  font-size: 60px;
+  font-weight: 800;
+  font-family: 'Playfair Display', serif;
+  color:  #046b5c;
+  width: 550px;
+  margin-top: 0;
+  margin-left: 40px;
+}
+
+.main_paragraph {
+  width: 445px;
+  font-size: 20px;
+  line-height: 35px;
+  font-family: Lato;
+  margin-top: 20px;
+  color: #333;
+  margin-left: 40px;
+}
+
+.main_button {
+  width: 229px;
+  margin-top: 28px;
+}
+
+.main_images {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.main_text_cont {
+  display: flex;
+  flex-direction: column;
+}
+
+.first_image {
+  width: 550px;
+  border-radius: 10px;
+}
+
+.socials {
+  display: flex;
+  flex-direction: row;
+}
+
+.social_icon {
+  width: 40px;
+  height: 40px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.button_div {
+  margin-left: 40px;
+  height: 55px;
+  width: 250px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+@media screen and (max-width: 1200px) {
+  .intro {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .main_images {
+    width: 80vw;
+  }
+
+  .main_heading,
+  .main_heading2,
+  .main_paragraph,
+  .main_text {
+    width: 80vw;
+  }
+
+  .main_text_cont {
+    width: 100vw;
+  }
+
+  .main_heading {
+    font-size: 60px;
+  }
+
+  .main_heading2 {
+    font-size: 42px;
+  }
+
+  .main_paragraph {
+    font-size: 20px;
+  }
+
+  .first_image {
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+}
+
+
+@media screen and (max-width: 280px) {
+  .first_image {
+    width: 250px;
+  }
+
+  .button_div {
+    width: 180px;
+  }
+}

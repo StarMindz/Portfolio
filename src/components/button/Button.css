@@ -1,0 +1,25 @@
+button {
+  border-radius: 100px;
+  height: 100%;
+  width: 100%;
+  padding: 10px 24px 10px 24px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.button_1 {
+  color: #e2e8f6;
+  border-color: transparent;
+  background-color: #58d0ea;
+}
+
+.button_2 {
+  color: #e2e8f6;
+  background-color: #4aafc5;
+  border-color: transparent;
+}
+
+.button_2:hover {
+  background-color: #f65ae2;
+}

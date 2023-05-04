@@ -1,0 +1,60 @@
+.quotes {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: #eaeaea;
+}
+
+.quoteLink {
+  color: white;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.quoteText {
+  background-color: #046b5c;
+  color: white;
+  padding: 40px;
+  border-radius: 10px;
+  font-size: 24px;
+  text-align: center;
+  width: 80vw;
+  height: auto;
+}
+
+.quotes {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.quotesInner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.quotes {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.refresh {
+  background-color: #046b5c;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 35px;
+  text-align: center;
+  color: white;
+  width: 250px;
+  height: 80px;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 10px 10px 4px 4px rgba(49, 43, 43, 0.8);
+  margin-bottom: 20px;
+}
