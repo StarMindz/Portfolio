@@ -15,7 +15,7 @@ const SearchGrid = () => {
   const assets = [
     {
       id: 1,
-      name: 'GSS movies',
+      name: 'GSS Movies',
       description: 'This is a Movie webapp for checking out latest movies and series. You can like, comment on and reserve a movie.',
       image: movie,
       demo: 'https://gss-movies.netlify.app/',
@@ -47,7 +47,7 @@ const SearchGrid = () => {
     },
     {
       id: 5,
-      name: 'I HEALTH LANDING PAGE',
+      name: 'I Health Landing Page',
       description: 'A coming soon website created to announce an upcoming project launch for I-health; A health care tech company',
       image: health,
       demo: 'https://i-healthlaunch.netlify.app/',
