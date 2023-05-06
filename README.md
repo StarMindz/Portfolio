@@ -21,7 +21,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [NFT Explorer] <a name="about-project"></a>
+# 📖 [My Portfolio] <a name="about-project"></a>
 
 > My Portfolio 
 
@@ -159,7 +159,7 @@ If you like this project, please give it a star and also follow me on GitHub for
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-- I would like to thank the CEO of Altura NFT Majd Hailat for giving me this fun test project to build
+- I would like to thank Co.Lab for giving me this fun test project to build
 - Thumb ups to all the Naija Afrobeat Musicians whose beautiful music made building this project more fun
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
