@@ -23,9 +23,9 @@
 
 # 📖 [My Portfolio] <a name="about-project"></a>
 
-> My Portfolio 
+> A simple demo Portfolio 
 
-**[Portfolio]** This is the repository for my personal portfolio website. It is built using React and showcases my skills, projects, and work experience.
+**[Portfolio]** This is the repository to a simple demo portfolio website. It is built using React and showcases some projects. Its a quick project and was built in less than a day
 
 ## 🛠 Built With <a name="built-with"></a>
 - Redux and React JS 
@@ -39,7 +39,6 @@
 - GitFlow
 
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details> 
    <summary>Client</summary> 
@@ -59,7 +58,7 @@
   
  ### Key Features <a name="key-features"></a> 
   
- - **[You can view all my past wroks here as well as access the demo link of each project ]** 
+ - **[You can view all past wroks here as well as access the demo link of each project ]** 
  - **[I also added a cool fact sections to explore fun facts about numbers]** 
  
   
