@@ -21,7 +21,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [My Portfolio] <a name="about-project"></a>
+# 📖 [Demo Portfolio] <a name="about-project"></a>
 
 > A simple demo Portfolio 
 
